@@ -1,0 +1,10 @@
+Student Name: Christopher Leipfert
+Address: 5 Dewey Road Whitehall, NY 12887
+Major: Computer Science
+Days Per Week On Campus: 5
+
+Student Name: Christopher Leipfert
+Address: the.sandman1294@gmail.com
+Major: Computer Science
+Days Per Week On Campus: 5
+
